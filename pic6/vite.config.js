@@ -9,6 +9,9 @@ export default defineConfig({
 // There seems to be some kind of issue with configuration here and I cannot find anything on Vite docs or anyting newer in forums. Seems 
 // that everything is from at least a year ago. Going to need support with this one. 
 
+// https://support.glitch.com/t/vite-process-is-not-defined-error/44767
+
+// https://vitejs.dev/guide/env-and-mode.html
 // Env Variables#
 // Vite exposes env variables on the special import.meta.env object. Some built-in variables are available in all cases:
 
